@@ -1,2 +1,3 @@
 # homework1
-lineareg homework
+Ineuron Assignment
+all 
